@@ -69,10 +69,10 @@ t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล้ว [AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
+        print("ส่งไปแล้ว—————————[=[AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล่ว [AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
+        print("ส่งไปแล้ว—————————[=[AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
 loop(num)
